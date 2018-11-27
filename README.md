@@ -7,7 +7,9 @@ Google Apps Script でウェブサイト制作
 
 スプレッドシートのURL
 
-- `https://docs.google.com/spreadsheets/d/******************************************/edit#gid=0`
+```
+https://docs.google.com/spreadsheets/d/******************************************/edit#gid=0
+```
 
 の `******************************************` がIDになります.
 
